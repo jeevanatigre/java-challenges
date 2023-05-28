@@ -1,0 +1,3 @@
+"id"	"email"	"first_name"	"last_name"	"mobile_no"	"password"	"roles"	"user_name"	"can_edit"
+2	"jeevanatigre@gmail.com"	"Jeevan"	"Atigre"	"8975746573"	"Atigre"	"ROLE_USER"	"JeevanAtigre"	false
+1	"abhiatigre@gmail.com"	"Abhi"	"Atigre"	"9657262625"	"Atigre"	"ROLE_ADMIN"	"AbhiAtigre"	true
